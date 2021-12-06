@@ -1,0 +1,9 @@
+# Project exclude paths
+/project/target/
+/questionOneAndTwo/target/
+/questionOneAndTwo/target/scala-2.12/classes/
+/questionOneAndTwo/target/scala-2.12/test-classes/
+/questionThree/target/
+/questionThree/target/scala-2.12/classes/
+/questionThree/target/scala-2.12/test-classes/
+/target/
